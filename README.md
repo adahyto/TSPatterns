@@ -28,7 +28,7 @@ Installation:
 
 Usage:
 
-Easily addaptive code
+Easily addaptive and expansible code.
 
 Contributing:
 
