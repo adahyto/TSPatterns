@@ -3,7 +3,7 @@
 Description:
 
 ADAPTER:
-
+-this pattern is allowing to implement one class's interface method to another without changing them. instead of it we are creating new class than implements addon interface , and in this case tracking the device to give it another devices method. 
 
 DECORATOR:
 - by creating abstract Car class component, we are able to add concrete model car components with personalize methods.
@@ -18,7 +18,7 @@ OBSERVER:
 - subject and observer interfaces - in this case we are creating WeatherStation subject and water tank fill observers - to detect preassure level and other one to initialize tank refilling, each of them are notifying the Subject.
 
 STATE:
-- state pattern is allowing to implement one class's interface method to another without changing them. instead of it we are creating new class than implements addon interface , and in this case tracking the device to give it another devices method. 
+- 
 
 Installation:
 
