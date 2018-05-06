@@ -12,6 +12,7 @@ DECORATOR:
 - abstract class extension - decorator is awesome feature now and we can use it to create ours concrete component decorators like for example autopilot enchancement in modern cars.
 
 FACADE:
+- creating classes for each of our devices menagment control, then initializing facade class, where we are accessing those control methods is the best way to easily automatize some processes and it even gives us right to preparing custom sequences of its course.
 
 OBSERVER:
 
@@ -25,7 +26,7 @@ Installation:
 
 Usage:
 
-Easlily addaptive code
+Easily addaptive code
 
 Contributing:
 
