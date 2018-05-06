@@ -18,7 +18,9 @@ OBSERVER:
 - subject and observer interfaces - in this case we are creating WeatherStation subject and water tank fill observers - to detect preassure level and other one to initialize tank refilling, each of them are notifying the Subject.
 
 STATE:
-- with this one
+- with this one we can like in this example control the status of our recruit premium application.
+- first we have to create the state interface and its own methods. then we can declare application class with its states publics, constructor with that publics states assigments and public methods to set&getState. 
+- after above we can finally go into states classes declarating with state interface implementations. this is where we are handling our state's(application's) interface methods logic.
 
 Installation:
 
