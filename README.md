@@ -18,7 +18,7 @@ OBSERVER:
 - subject and observer interfaces - in this case we are creating WeatherStation subject and water tank fill observers - to detect preassure level and other one to initialize tank refilling, each of them are notifying the Subject.
 
 STATE:
-- 
+- with this one
 
 Installation:
 
