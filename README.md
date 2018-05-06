@@ -3,7 +3,7 @@
 Description:
 
 ADAPTER:
-- subject and observer interfaces - in this case we are creating WeatherStation subject and water tank fill observers - to detect preassure level and other one to initialize tank refilling, each of them are notifying the Subject.
+
 
 DECORATOR:
 - by creating abstract Car class component, we are able to add concrete model car components with personalize methods.
@@ -13,6 +13,7 @@ FACADE:
 - creating classes for each of our devices menagment control, then initializing facade class, where we are accessing those control methods is the best way to easily automatize some processes and it even gives us right to preparing custom sequences of its course.
 
 OBSERVER:
+- subject and observer interfaces - in this case we are creating WeatherStation subject and water tank fill observers - to detect preassure level and other one to initialize tank refilling, each of them are notifying the Subject.
 
 STATE:
 
